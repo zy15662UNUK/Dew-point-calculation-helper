@@ -1,2 +1,2 @@
-# Dew-point-calculation-helper
-This small program is to help you with the dew point iteration with DePriester chart
+# Dew-point-bubble-point-calculation-helper
+This small program is to help you with the dew point and bubble iteration with DePriester chart. Dew point and bubble point estimation is quite important for chemical engineering student. Nomarlly students are required to do iteration with DePriester chart by hand calculation, which is tedious. So this programs are developed to help you with this type of work. You only have to type in the readings from the chart and all other calculations will be done by these programs.
